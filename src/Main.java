@@ -27,6 +27,10 @@ public class Main {
             sair = scanner.nextLine();
         } while (!sair.equals("s"));
 
+        System.out.println("________________________________________________");
+        System.out.println("Listando sites cadastrados");
+        System.out.println("________________________________________________");
+
         for(Website meusSites: meusWebsites){
             System.out.println(meusSites.getNome_site() + ": " + meusSites.getUrl_site());
             System.out.println("________________________________________________");
