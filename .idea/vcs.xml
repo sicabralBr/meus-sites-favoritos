@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/../DesafioControleFluxo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../controle-candidatos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../equilibrando-saldo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
